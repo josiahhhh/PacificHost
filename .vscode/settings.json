@@ -1,0 +1,20 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+
+  // https://www.jetbrains.com/lp/mono/
+  "editor.fontFamily": "'JetBrains Mono', Hack Nerd Font",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 14,
+
+  "eslint.validate": ["javascript", "typescript", "vue"],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+
+  "editor.linkedEditing": true,
+  "html.autoClosingTags": true,
+  "editor.minimap.enabled": false,
+  "volar.autoCompleteRefs": true
+}
