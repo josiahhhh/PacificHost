@@ -229,12 +229,12 @@
                 libero cupiditate recusandae aliquam ducimus eveniet incidunt
                 modi sapiente inventore magnam!
               </div>
-              <img class="reviewerImg" src="img/reviews/1.png" alt="" />
+              <img class="reviewerImg" src="/img/reviews/1.png" alt="" />
               <div class="reviewer">- John Doe</div>
             </div>
           </Slide>
           <div class="reviewItem flex-col">
-            <img class="reviewImg" src="img/reviews/a.png" />
+            <img class="reviewImg" src="/img/reviews/a.png" />
             <div class="rating">
               <i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i
               ><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i
@@ -245,11 +245,11 @@
               libero cupiditate recusandae aliquam ducimus eveniet incidunt modi
               sapiente inventore magnam!
             </div>
-            <img class="reviewerImg" src="img/reviews/1.png" alt="" />
+            <img class="reviewerImg" src="/img/reviews/1.png" alt="" />
             <div class="reviewer">- John Doe</div>
           </div>
           <div class="reviewItem flex-col">
-            <img class="reviewImg" src="img/reviews/a.png" />
+            <img class="reviewImg" src="/img/reviews/a.png" />
             <div class="rating">
               <i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i
               ><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i
@@ -260,11 +260,11 @@
               libero cupiditate recusandae aliquam ducimus eveniet incidunt modi
               sapiente inventore magnam!
             </div>
-            <img class="reviewerImg" src="img/reviews/1.png" alt="" />
+            <img class="reviewerImg" src="/img/reviews/1.png" alt="" />
             <div class="reviewer">- John Doe</div>
           </div>
           <div class="reviewItem flex-col">
-            <img class="reviewImg" src="img/reviews/a.png" />
+            <img class="reviewImg" src="/img/reviews/a.png" />
             <div class="rating">
               <i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i
               ><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i
@@ -275,11 +275,11 @@
               libero cupiditate recusandae aliquam ducimus eveniet incidunt modi
               sapiente inventore magnam!
             </div>
-            <img class="reviewerImg" src="img/reviews/1.png" alt="" />
+            <img class="reviewerImg" src="/img/reviews/1.png" alt="" />
             <div class="reviewer">- John Doe</div>
           </div>
           <div class="reviewItem flex-col">
-            <img class="reviewImg" src="img/reviews/a.png" />
+            <img class="reviewImg" src="/img/reviews/a.png" />
             <div class="rating">
               <i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i
               ><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i
@@ -290,7 +290,7 @@
               libero cupiditate recusandae aliquam ducimus eveniet incidunt modi
               sapiente inventore magnam!
             </div>
-            <img class="reviewerImg" src="img/reviews/1.png" alt="" />
+            <img class="reviewerImg" src="/img/reviews/1.png" alt="" />
             <div class="reviewer">- John Doe</div>
           </div>
           <template #addons>
